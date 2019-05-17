@@ -5,8 +5,8 @@ It gives your work an edge over all other static sites and there's numerous ways
 
 HTML <b>canvas</b> elements are widely used in backgrounds to produce an excellent visual effects
 
-<img src="pic1.png" height="100" width="100">
-<img src="pic2.png" height="100" width="100">
+<img src="pic1.png" height="300" width="500">
+<img src="pic2.png" height="300" width="500">
 
 
 Licensed under [MIT License]
