@@ -1,4 +1,12 @@
-HTMLCanvas
+<h1>HTMLCanvas</h1>
 
-HTML canvas is a wonderful tool for a cool web page.
-It gives your work an edge over all and there's numerous ways you can create your own items as per your creativity.
+HTML canvas is a wonderful tool for a cool elements in the web page.
+It gives your work an edge over all other static sites and there's numerous ways you can create your own items as per your creativity.
+
+HTML <b>canvas</b> elements are widely used in backgrounds to produce an excellent visual effects
+
+<img src="pic1.png" height="100" width="100">
+<img src="pic2.png" height="100" width="100">
+
+
+Licensed under [MIT License]
