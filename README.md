@@ -9,4 +9,4 @@ HTML <b>canvas</b> elements are widely used in backgrounds to produce an excelle
 <img src="pic2.png" height="300" width="500">
 
 
-Licensed under [MIT License]
+Licensed under [MIT License](LICENSE).
